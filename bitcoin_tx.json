@@ -29,34 +29,6 @@
             }
         },
         {
-            "hash": "3d4e2ef72d6be371a59ab78cc057baea08388a1684b9171a1813d94ca09be9e8",
-            "ntxid": null,
-            "tx_p": {
-                "hash": "3d4e2ef72d6be371a59ab78cc057baea08388a1684b9171a1813d94ca09be9e8",
-                "ntxid": "37cc28898cd4a58048cac2425ad1bbce8dd74299c8e6bfc5d0db0af54aaf5f51",
-                "ver": 1,
-                "size": 224,
-                "in": [
-                    {
-                        "prev_out": {
-                            "hash": "3ca7275ebc830ccedfd49ee1223691b03f5e8011df25ace46e67859fbbea0a11",
-                            "n": 0
-                        },
-                        "scriptSig": "(redacted)",
-                        "addr": null
-                    }
-                ],
-                "out": [
-                    {
-                        "value_int": 534800,
-                        "value": 0.005348,
-                        "scriptPubKey": "OP_DUP OP_HASH160 c625791bdfc47d58e67ecd85f913dfa8c278180f OP_EQUALVERIFY OP_CHECKSIG",
-                        "addr": "c625791bdfc47d58e67ecd85f913dfa8c278180f"
-                    }
-                ]
-            }
-        },
-        {
             "hash": "f20e44b823a9d6cb1e3e07a9e8cb9da1e63dbbe548d7d121284294be9d826c74",
             "ntxid": null,
             "tx_p": {
