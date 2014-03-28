@@ -55,34 +55,6 @@
                     }
                 ]
             }
-        },
-        {
-            "hash": "f239810888c55a2af992216888937ad63261993a55abadc9c4b9b80a0d2eba14",
-            "ntxid": "153c5d5d6a06a713e4cec1bf73e3ecad97687978bf43212916002fb4d9d33590",
-            "tx_p": {
-                "hash": "f239810888c55a2af992216888937ad63261993a55abadc9c4b9b80a0d2eba14",
-                "ntxid": "153c5d5d6a06a713e4cec1bf73e3ecad97687978bf43212916002fb4d9d33590",
-                "ver": 1,
-                "size": 223,
-                "in": [
-                    {
-                        "prev_out": {
-                            "hash": "93dc912c1520678aa323f5c323e3f02e57b5573dcf4b94477703380db0cd5f95",
-                            "n": 0
-                        },
-                        "scriptSig": "(redacted)",
-                        "addr": null
-                    }
-                ],
-                "out": [
-                    {
-                        "value_int": 867829,
-                        "value": 0.00867829,
-                        "scriptPubKey": "OP_DUP OP_HASH160 d689879db50fe74c08b48e403786f4125da6a35d OP_EQUALVERIFY OP_CHECKSIG",
-                        "addr": "d689879db50fe74c08b48e403786f4125da6a35d"
-                    }
-                ]
-            }
         }
     ]
 }
