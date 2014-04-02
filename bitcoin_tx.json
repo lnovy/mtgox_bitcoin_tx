@@ -133,6 +133,58 @@
             }
         },
         {
+            "hash": "96ae0d5d1ad86e82ac6a673f2381977324e54a197154b3c7df1a9c8f8c5da137",
+            "ntxid": "dfa1997740508921f34b4e5f7e1ed7234c43f74a35d937f2cb518911b56f1aa8",
+            "tx_p": {
+                "hash": "96ae0d5d1ad86e82ac6a673f2381977324e54a197154b3c7df1a9c8f8c5da137",
+                "ntxid": "dfa1997740508921f34b4e5f7e1ed7234c43f74a35d937f2cb518911b56f1aa8",
+                "ver": 1,
+                "size": 767,
+                "in": [
+                    {
+                        "prev_out": {
+                            "hash": "c8649ad0423239377859c32d995f6615f351bc26c1aa2fcb81f470ae72d93604",
+                            "n": 0
+                        },
+                        "scriptSig": "(redacted)",
+                        "addr": null
+                    },
+                    {
+                        "prev_out": {
+                            "hash": "575a33a9f10cab0a878202bac7c002b71b1bbaaa69d52a78bc74c3118bad5262",
+                            "n": 13
+                        },
+                        "scriptSig": "(redacted)",
+                        "addr": null
+                    },
+                    {
+                        "prev_out": {
+                            "hash": "5b12e274503aca8ad2885d41f79f17d2d7614529a26d3d9e24bdb767ee49c88f",
+                            "n": 2
+                        },
+                        "scriptSig": "(redacted)",
+                        "addr": null
+                    },
+                    {
+                        "prev_out": {
+                            "hash": "9fa297ec7772a28633ebdba3e97bdb99c860b3fca54b45ad3e9fc60b4c34de41",
+                            "n": 19
+                        },
+                        "scriptSig": "(redacted)",
+                        "addr": null
+                    }
+                ],
+                "out": [
+                    {
+                        "value_int": 101039883,
+                        "value": 1.01039883,
+                        "scriptPubKey": "OP_DUP OP_HASH160 3681cf01887948bec6b16eaa2f1c011deb7ffbe3 OP_EQUALVERIFY OP_CHECKSIG",
+                        "addr": "3681cf01887948bec6b16eaa2f1c011deb7ffbe3"
+                    }
+                ]
+            }
+        },
+        {
             "hash": "f20e44b823a9d6cb1e3e07a9e8cb9da1e63dbbe548d7d121284294be9d826c74",
             "ntxid": null,
             "tx_p": {
